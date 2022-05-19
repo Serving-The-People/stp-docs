@@ -1,7 +1,6 @@
 backend:
-  name: github
-  branch: main 
-  repo: Serving-The-People/stp-docs
+  name: git-gateway
+  branch: master
 
 # These lines should *not* be indented
 media_folder: "static/img" # Media files will be stored in the repo under static/images/uploads
