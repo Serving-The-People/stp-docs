@@ -29,7 +29,7 @@ function HomepageHeader() {
 export default function Home() {
   const { siteConfig } = useDocusaurusContext();
   useEffect(() => {
-    if (location.hash.contains("invite_token")) {
+    if (location.hash.includes("invite_token")) {
       location.assign(`${location.origin}/admin/${location.hash}`);
     }
   }, []);
