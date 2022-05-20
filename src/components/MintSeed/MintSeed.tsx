@@ -3,9 +3,9 @@ import { Provider, createClient } from "wagmi";
 import { Buffer } from "buffer";
 import MintSeedForm from "./MintSeedForm";
 
-if (!window.Buffer) {
-  window.Buffer = Buffer;
-}
+// if (!window.Buffer) {
+//   window.Buffer = Buffer;
+// }
 
 const client = createClient({
   autoConnect: true,

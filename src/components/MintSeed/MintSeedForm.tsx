@@ -4,6 +4,7 @@ import React, {
   useCallback,
   ChangeEvent,
   useEffect,
+  Fragment,
 } from "react";
 import { useAccount, useConnect } from "wagmi";
 import { InjectedConnector } from "wagmi/connectors/injected";
@@ -38,12 +39,12 @@ const MintSeed: FC = () => {
           onChange={handleChange}
         />
         {data ? (
-          <>
+          <Fragment>
             <button onClick={handleSubmit} disabled={!data}>
               Mint
             </button>
             <span className={styles.address}>{shortAddress(data.address)}</span>
-          </>
+          </Fragment>
         ) : (
           <button onClick={() => connect()}>Connect Wallet to Mint</button>
         )}
