@@ -1,9 +1,7 @@
 {
   "label": "Learn about Serving The People",
-  "position": 1,
+  "position": 2,
   "collapsed": false,
   "collapsible": false,
-  "link": {
-    "description": "Learn about Serving The People"
-  }
+  "link": null
 }
