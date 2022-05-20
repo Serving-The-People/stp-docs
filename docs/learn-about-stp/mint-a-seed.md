@@ -1,0 +1,28 @@
+---
+sidebar_position: 4
+---
+
+# 🧩 Mint a Seed
+
+Your Seed(s) will be minted directly to your wallet.
+
+*Quantity*
+
+### Connect Wallet
+
+Mint Price is 0.1 eth per Seed.
+
+### Seeds is access
+
+Once minted your wallet address will be automatically approved for account creation on [https://stp.world/](https://stp.world/). 
+
+### Rarity
+
+Each of the 10,000 SEEDS is entirely unique - they are a total of 44 different Seed species each processing a multitude of variations inspired by the polymorphism of flowers. The 6 variations divided into the following rarity tiers:
+
+- [The Interaction of Color](https://opensea.io/collection/seeds-luciensmith?search[sortAscending]=true&search[sortBy]=PRICE&search[stringTraits][0][name]=Type&search[stringTraits][0][values][0]=Interaction%20of%20Color) ****~70% Chance of Drop Varying in an array of color palettes taken from art history, think Pop Art or Baroque.
+- [Berzerkers](https://opensea.io/collection/seeds-luciensmith?search[sortAscending]=true&search[sortBy]=PRICE&search[stringTraits][0][name]=Type&search[stringTraits][0][values][0]=Berzerkers) ~15% Chance of Drop A visual explosion of color.
+- [Monochromatic](https://opensea.io/collection/seeds-luciensmith?search[sortAscending]=true&search[sortBy]=PRICE&search[stringTraits][0][name]=Type&search[stringTraits][0][values][0]=Monochromatic) ~8% Chance of Drop A minimalist approach to color field abstraction.
+- [Queens](https://opensea.io/collection/seeds-luciensmith?search[sortAscending]=true&search[sortBy]=PRICE&search[stringTraits][0][name]=Type&search[stringTraits][0][values][0]=Queens) ~6% Chance of Drop Named after historical female rulers, the Queens all bear unique stripes inspired by the many different mutations found in the tulip flower.
+- [Faces](https://opensea.io/collection/seeds-luciensmith?search[sortAscending]=true&search[sortBy]=PRICE&search[stringTraits][0][name]=Type&search[stringTraits][0][values][0]=Faces) <1% Chance of Drop Inspired by the eye-like markings found on butterflies, reptiles, cat, birds and fish.
+- [Ragnarok](https://opensea.io/collection/seeds-luciensmith?search[sortAscending]=true&search[sortBy]=PRICE&search[stringTraits][0][name]=Type&search[stringTraits][0][values][0]=Ragnarok) <0.5% Chance of Drop Inspired by Andy Warhol’s Shot Marilyns paintings. In 1964, Warhol painted five Marilyns with different colored backgrounds and they were stored at his famous studio loft, The factory. Four of these five paintings would become infamous after an incident that left bullet holes through the forehead of Ms. Monroe.
