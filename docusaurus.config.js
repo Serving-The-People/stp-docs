@@ -26,7 +26,7 @@ const config = {
     defaultLocale: "en",
     locales: ["en"],
   },
-
+  plugins: ["docusaurus-plugin-sass"],
   presets: [
     [
       "classic",

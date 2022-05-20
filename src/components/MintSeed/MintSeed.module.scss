@@ -1,0 +1,18 @@
+.inputWrapper {
+    label {
+        margin-right: 9px;
+    }
+    input {
+        margin-right: 9px;
+    }
+    button {
+        cursor: pointer;
+        &:disabled {
+            cursor: not-allowed;
+        }
+    }
+}
+
+.address {
+    font-size: 10px;
+}
