@@ -2,10 +2,6 @@
 sidebar_position: 1
 title: Introduction
 ---
----
-sidebar_position: 1
-slug: /
----
 # 🌎 Introduction
 Welcome to the hub of Serving the People. Here is where you will find almost everything about us, who we are and what we stand for. 
 
