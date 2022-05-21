@@ -10,9 +10,14 @@
         &:disabled {
             cursor: not-allowed;
         }
+        margin-right: 9px;
     }
 }
 
 .address {
     font-size: 10px;
+}
+
+.balanceRow {
+    margin-top: 9px;
 }
