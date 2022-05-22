@@ -17,7 +17,7 @@ An NFT stands for “non-fungible token” It is called this because it is verif
 Seeds are randomly generated at the time of minting and cannot be selected. However, once minted, specific Seeds can be acquired on [OpenSea](https://opensea.io/collection/seeds-luciensmith) via offers from the current holder.
     
 ### Do I need cryptocurrency to buy one?
-Nope. If you visit [seeds.lobus.io](http://seeds.lobus.io) you may purchase Seed(s) with a credit card. However, it will take anywhere from 24 hours to 72 hours to receive your NFT.
+Nope. If you visit [seeds.lobus.io](https://seeds.lobus.io/buy) you may purchase Seed(s) with a credit card. However, it will take anywhere from 24 hours to 72 hours to receive your NFT.
 
 ## How to Mint a Seed
 To mint your own seed visit [Mint a Seed](docs/mint-a-seed.mdx).
