@@ -1,6 +1,6 @@
 ---
 sidebar_position: 6
-title: Join our Community
+title: 💟 Join our Community
 ---
 
 
