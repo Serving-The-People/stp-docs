@@ -26,14 +26,12 @@ Centralized social platforms rely on outdated business models and practices that
 
 # How can I participate in Serving the People?
 
-For Beta Testing, Serving the People will be inviting all Seeds NFT holders to the platform. Each SEED NFT will unlock posting permissions by simply connecting your wallet to the platform. See our roadmap below.
+For Beta Testing, Serving the People will be inviting all [Seeds](docs/seeds.md) NFT holders to the platform. Each Seed will unlock posting permissions by simply connecting your wallet to the platform.
 
 # Roadmap
 
 We believe centralized social platforms rely on outdated business models and practices that fundamentally limit creator and community engagement. It’s time for change. 
 
-
-    
    - [x] **Alpha (Completed) Nov. 2021**
     Initial Seed NFT Crowdfund Successfully Raised Desired Amount Led By Leading Musicians, Creatives, And Entrepreneurs.
    - [ ]  **Beta 1 (Currently)- Build UI/UX**
