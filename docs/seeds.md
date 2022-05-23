@@ -20,6 +20,6 @@ Seeds are randomly generated at the time of minting and cannot be selected. Howe
 Nope. If you visit [seeds.lobus.io](http://seeds.lobus.io) you may purchase Seed(s) with a credit card. However, it will take anywhere from 24 hours to 72 hours to receive your NFT.
 
 ## How to Mint a Seed
-To mint your own seed visit [Mint a Seed](docs/mint-a-seed.mdx).
+To mint your own seed visit [Mint a Seed](mint-a-seed).
 
 If you’d like to view or purchase a Seed on the secondary market check them out on [OpenSea](https://opensea.io/collection/seeds-luciensmith).

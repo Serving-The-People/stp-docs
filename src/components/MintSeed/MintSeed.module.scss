@@ -11,6 +11,19 @@
             cursor: not-allowed;
         }
         margin-right: 9px;
+        @media (max-width: 768px) {
+            &.connectButton {
+                margin-top: 18px;
+                display: block;
+            }
+        }
+    }
+}
+
+.connectButtons {
+    display: inline;
+    @media (max-width: 768px) {
+        display: flex;
     }
 }
 
@@ -20,4 +33,19 @@
 
 .balanceRow {
     margin-top: 9px;
+}
+
+.error {
+    color: red;
+    font-size: 10px;
+    margin-left: 9px;
+}
+.loading {
+    font-size: 10px;
+    margin-left: 9px;
+}
+.success {
+    font-size: 10px;
+    margin-left: 9px;
+    color: green;
 }
