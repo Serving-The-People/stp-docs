@@ -12,7 +12,7 @@ At Serving the People, we value innovation, equality, and forward thinking. At o
 # So what _is_ Serving the People? 
 Serving the People is a platform built by artists interested in the intersection of creativity and technology. We provide mentorship and foster creators worldwide, to whom we have built a supportive community around. 
 
-Our platform is built to:
+# Our platform is built to:
 
 - Be accessible to everyone and minimize barrier to entry;
 - Allow for discovery free from the overwhelming saturation of paid and promotional content often seen when utilizing big-tech services such as Twitter and Instagram;
