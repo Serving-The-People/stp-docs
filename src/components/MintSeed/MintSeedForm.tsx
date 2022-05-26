@@ -15,7 +15,7 @@ const MintSeed: FC = () => {
   const { connect, connectors } = useConnect();
   const [error, setError] = useState<string | null>(null);
   const [minting, setMinting] = useState(false);
-  const [minted, setMinted] = useState(false);
+  const [minted, setMinted] = useState(true);
   const { seedPrice } = useSeedsContract();
   const [quantity, setQuantity] = useState<number>(1);
   const [connectModalOpen, setConnectModalOpen] = useState(false);
@@ -129,7 +129,9 @@ const MintSeed: FC = () => {
         {!error && !minting && minted && (
           <span className={styles.success}>
             {`Minted! View your seeds at `}
-            <a href="https://seeds.lobus.io/wallet">seeds.lobus.io</a>
+            <a href="https://seeds.lobus.io/wallet" target="_blank">
+              seeds.lobus.io
+            </a>
           </span>
         )}
       </div>
