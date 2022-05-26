@@ -21,7 +21,7 @@ const client = createClient({
     );
   },
   connectors: [
-    new InjectedConnector(),
+    new InjectedConnector({ options: { name: "MetaMask" } }),
     new WalletConnectConnector({
       options: {
         qrcode: true,
