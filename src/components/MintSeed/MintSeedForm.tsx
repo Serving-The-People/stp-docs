@@ -49,7 +49,7 @@ const MintSeed: FC = () => {
     }
   );
 
-  const totalPriceEth = Math.max(0, quantity * parseFloat(seedPrice));
+  const totalPriceEth = Math.max(0, (quantity || 0) * parseFloat(seedPrice));
   const totalPriceUSD = usdPrice ? totalPriceEth * usdPrice : 0;
 
   const handleSubmit = useCallback(async () => {
