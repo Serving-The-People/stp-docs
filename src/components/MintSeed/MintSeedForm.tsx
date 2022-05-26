@@ -72,14 +72,14 @@ const MintSeed: FC = () => {
           onChange={handleChange}
         />
         {address && (
-          <>
+          <div className={styles.mintButtonWrapper}>
             <button onClick={handleSubmit} disabled={!address}>
               Mint
             </button>
             <span className={styles.address}>
               {shortAddress(address.address)}
             </span>
-          </>
+          </div>
         )}
         {!address && !connectModalOpen && (
           <button

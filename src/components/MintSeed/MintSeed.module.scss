@@ -54,3 +54,12 @@
     margin-left: 9px;
     color: green;
 }
+
+.mintButtonWrapper {
+    display: inline-flex;
+    align-items: center;
+    @media (max-width: 568px) {
+        margin-top: 9px;
+        display: flex;
+    }
+}
