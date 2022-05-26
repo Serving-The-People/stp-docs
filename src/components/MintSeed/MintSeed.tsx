@@ -25,6 +25,9 @@ const client = createClient({
     new WalletConnectConnector({
       options: {
         qrcode: true,
+        rpc: {
+          1: "https://eth-mainnet.alchemyapi.io/v2/9ANCgz1Z3X9HqDQLxVtzabn04IYiK1v-",
+        },
       },
     }),
     // new CoinbaseWalletConnector({

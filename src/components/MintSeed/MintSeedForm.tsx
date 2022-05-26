@@ -1,5 +1,5 @@
 import React, { FC, useState, useCallback, ChangeEvent } from "react";
-import { constants } from "ethers";
+import { constants, utils } from "ethers";
 import { useAccount, useConnect, useSigner, useContractWrite } from "wagmi";
 import { shortAddress } from "../../lib/shortAddress";
 import SeedsABI from "../../hooks/SeedsABI.json";
@@ -25,6 +25,9 @@ const MintSeed: FC = () => {
     setQuantity(parseInt(e.target.value));
   }, []);
 
+  const totalPriceEth = Math.max(0, (quantity || 0) * parseFloat(seedPrice));
+  const totalPriceUSD = usdPrice ? totalPriceEth * usdPrice : 0;
+
   const { data: mintTx, write: mintSeed } = useContractWrite(
     {
       addressOrName: SEEDS_CONTRACT_ADDRESS,
@@ -33,13 +36,17 @@ const MintSeed: FC = () => {
     "mint",
     {
       args: [quantity],
-      onError: (e) => {
+      overrides: { value: utils.parseEther(`${totalPriceEth}`) },
+      onError: (e: string | Error) => {
         setMinting(false);
-        if (e.message.includes("Not Enough Ether")) {
+        if (
+          e === "execution reverted: Not Enough Ether" ||
+          (e instanceof Error && e.message.includes("Not Enough Ether"))
+        ) {
           setError("Not enough funds in your wallet");
-        } else {
-          setError("Could not process transaction");
+          return;
         }
+        setError("Could not process transaction");
       },
       onSuccess: () => {
         setError(null);
@@ -48,9 +55,6 @@ const MintSeed: FC = () => {
       },
     }
   );
-
-  const totalPriceEth = Math.max(0, (quantity || 0) * parseFloat(seedPrice));
-  const totalPriceUSD = usdPrice ? totalPriceEth * usdPrice : 0;
 
   const handleSubmit = useCallback(async () => {
     if (quantity <= 0) {
