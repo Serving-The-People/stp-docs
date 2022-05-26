@@ -15,7 +15,7 @@ const MintSeed: FC = () => {
   const { connect, connectors } = useConnect();
   const [error, setError] = useState<string | null>(null);
   const [minting, setMinting] = useState(false);
-  const [minted, setMinted] = useState(true);
+  const [minted, setMinted] = useState(false);
   const { seedPrice } = useSeedsContract();
   const [quantity, setQuantity] = useState<number>(1);
   const [connectModalOpen, setConnectModalOpen] = useState(false);
