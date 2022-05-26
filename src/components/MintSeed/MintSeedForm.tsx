@@ -7,6 +7,7 @@ import {
   useSeedsContract,
   SEEDS_CONTRACT_ADDRESS,
 } from "../../hooks/useMintSeed";
+import { useEtherPrices } from "../../hooks/useEtherPrices";
 import styles from "./MintSeed.module.scss";
 
 const MintSeed: FC = () => {
@@ -18,6 +19,7 @@ const MintSeed: FC = () => {
   const { seedPrice } = useSeedsContract();
   const [quantity, setQuantity] = useState<number>(1);
   const [connectModalOpen, setConnectModalOpen] = useState(false);
+  const { usdPrice } = useEtherPrices();
 
   const handleChange = useCallback((e: ChangeEvent<HTMLInputElement>) => {
     setQuantity(parseInt(e.target.value));
@@ -46,6 +48,9 @@ const MintSeed: FC = () => {
       },
     }
   );
+
+  const totalPriceEth = Math.max(0, quantity * parseFloat(seedPrice));
+  const totalPriceUSD = usdPrice ? totalPriceEth * usdPrice : 0;
 
   const handleSubmit = useCallback(async () => {
     if (quantity <= 0) {
@@ -88,6 +93,7 @@ const MintSeed: FC = () => {
           <div className={styles.connectButtons}>
             {connectors.map((connector) => (
               <button
+                key={connector.name}
                 className={styles.connectButton}
                 onClick={() => connect(connector)}
               >
@@ -106,11 +112,10 @@ const MintSeed: FC = () => {
       <div className={styles.balanceRow}>
         <span>
           Price:{" "}
-          {seedPrice
-            ? `${constants.EtherSymbol} ${Math.max(
-                0,
-                quantity * parseFloat(seedPrice)
-              ).toFixed(1)}`
+          {seedPrice && usdPrice
+            ? `${constants.EtherSymbol} ${totalPriceEth.toFixed(
+                1
+              )} ($${totalPriceUSD.toFixed(2)})`
             : "Loading..."}
         </span>
         {error && <span className={styles.error}>{error}</span>}

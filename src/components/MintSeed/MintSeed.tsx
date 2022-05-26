@@ -3,6 +3,7 @@ import { providers } from "ethers";
 import { Provider, createClient } from "wagmi";
 import { InjectedConnector } from "wagmi/connectors/injected";
 import { WalletConnectConnector } from "wagmi/connectors/walletConnect";
+import { CoinbaseWalletConnector } from "wagmi/connectors/coinbaseWallet";
 
 import { Buffer } from "buffer";
 import MintSeedForm from "./MintSeedForm";
@@ -15,7 +16,7 @@ const client = createClient({
   autoConnect: true,
   provider(config) {
     return new providers.AlchemyProvider(
-      config.chainId,
+      typeof config !== "undefined" && config.chainId,
       "9ANCgz1Z3X9HqDQLxVtzabn04IYiK1v-"
     );
   },
@@ -26,6 +27,11 @@ const client = createClient({
         qrcode: true,
       },
     }),
+    // new CoinbaseWalletConnector({
+    //   options: {
+    //     appName: "stp-docs",
+    //   },
+    // }),
   ],
 });
 

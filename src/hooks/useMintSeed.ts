@@ -1,11 +1,5 @@
-import { useState, useEffect, useCallback } from "react";
 import { utils, BigNumber } from "ethers";
-import {
-  useContract,
-  useSigner,
-  useContractRead,
-  useContractWrite,
-} from "wagmi";
+import { useContract, useSigner, useContractRead } from "wagmi";
 import SeedsABI from "./SeedsABI.json";
 import type { SeedsABI as SeedContractType } from "./SeedsABI";
 
@@ -32,6 +26,8 @@ export const useSeedsContract = (): {
 
   return {
     seedsContract,
-    seedPrice: utils.formatEther(BigNumber.from(seedPrice)),
+    seedPrice: utils.formatEther(
+      BigNumber.isBigNumber(seedPrice) ? seedPrice : 0
+    ),
   };
 };

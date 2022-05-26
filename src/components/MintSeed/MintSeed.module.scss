@@ -11,6 +11,10 @@
             cursor: not-allowed;
         }
         margin-right: 9px;
+        background-color: #6b6b6b;
+        border: 0;
+        padding: 3px 8px;
+        border-radius: 3px;
         @media (max-width: 768px) {
             &.connectButton {
                 margin-top: 18px;
