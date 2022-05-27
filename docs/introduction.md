@@ -60,10 +60,10 @@ We believe centralized social platforms rely on outdated business models and pra
 We’re a multidisciplinary team bridging the gap between culture, scalable technology, and sound economics. For 7 years we’ve been cultivating an audience and building a community using the internet.
 
 # Our Team
-- **Lucien Smith** - Founder, CEO
+- **Lucien Smith** - Founder, CEO <br/>
 Artist, and Director of Cultural Innovation @ Lobus
-- **Sam Grund** - Head of Engineering
-Senior Developer @ 1stdibs (NFT Marketplace)
+- **Sam Grund** - Head of Engineering <br/>
+Senior Developer @ 1stDibs NFT
 - **Mia Manning** - Community Manager, Production Coordinator
 - **Ousmane Sow** - Product Manager
 - **Daniel De La Rosa** - UI/UX Lead
