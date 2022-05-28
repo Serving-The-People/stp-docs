@@ -87,7 +87,7 @@ const config = {
               },
               {
                 label: "Twitter",
-                href: "https://twitter.com/servingthepeeps",
+                href: "https://twitter.com/servingdao",
               },
             ],
           },
