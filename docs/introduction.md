@@ -32,7 +32,6 @@ Serving the People is building a web3 social platform. We are building a place w
 
 - Centralized social platforms rely on outdated business models and practices that fundamentally limit creator and community engagement.
 - Consumers are at risk because centralized social platforms allow for unnecessary identification, damage from privacy breaches, and harmful content management issues.
-- Serving the People is the Substack for Web3. With us, anybody can launch their own version of [$FWB](https://www.fwb.help/). We are building a super app that blurs the lines between social media and social commerce.
 - Rather than just generating new boards/forums, anyone can seamlessly tokenize all content, providing incentive for high-value creation for communities, creators, and consumers participating.
 
 # How can I participate in Serving the People?
