@@ -34,9 +34,9 @@ Serving the People is building a web3 social platform. We are building a place w
 - Consumers are at risk because centralized social platforms allow for unnecessary identification, damage from privacy breaches, and harmful content management issues.
 - Rather than just generating new boards/forums, anyone can seamlessly tokenize all content, providing incentive for high-value creation for communities, creators, and consumers participating.
 
-# How can I participate in Serving the People?
+# How can I support  Serving the People?
 
-For Beta Testing, Serving the People will be inviting all [Seeds](docs/seeds.md) NFT holders to the platform. Each Seed will unlock posting permissions by simply connecting your wallet to the platform.
+For Beta Testing, Serving the People will be inviting all [Seeds](docs/seeds.md) NFT holders to the platform. Seeds is our support system, it allows for you to help fund our edeavors in return we reward you with a unique NFT. Each Seed will unlock posting permissions by simply connecting your wallet to the platform. For more info visit the [Seeds Page](docs/seeds.md).
 
 # Roadmap
 
