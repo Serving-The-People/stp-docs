@@ -28,7 +28,6 @@ Centralized social platforms rely on outdated business models and practices that
 Serving the People is building a creator platform. A place where we can share without feeling pressured to conform to social engagement metrics. 
 
 # So, why does this matter?
-### Social Connectivity Needs Web3
 
 -  Social platforms rely on outdated business models and practices that fundamentally limit creator and community engagement.
 - Consumers are at risk because centralized social platforms allow for unnecessary identification, damage from privacy breaches, and harmful content management issues.
