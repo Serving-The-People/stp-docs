@@ -25,12 +25,12 @@ We believe that resources are meant to be shared and accessible. We support givi
 Centralized social platforms rely on outdated business models and practices that fundamentally limit creator and community engagement. Content, data, and social graphs are monopolized by outdated social networks. High-value content is being overshadowed by rigid engagement metrics. Serving the People aligns itself with web3 principles. We are building a super app that blurs the lines between social media and social commerce.
 
 # What are we building?
-Serving the People is building a web3 social platform. We are building a place where creators can share without feeling pressured to conform to social engagement metrics. 
+Serving the People is building a creator platform. A place where we can share without feeling pressured to conform to social engagement metrics. 
 
 # So, why does this matter?
 ### Social Connectivity Needs Web3
 
-- Centralized social platforms rely on outdated business models and practices that fundamentally limit creator and community engagement.
+-  Social platforms rely on outdated business models and practices that fundamentally limit creator and community engagement.
 - Consumers are at risk because centralized social platforms allow for unnecessary identification, damage from privacy breaches, and harmful content management issues.
 - Rather than just generating new boards/forums, anyone can seamlessly tokenize all content, providing incentive for high-value creation for communities, creators, and consumers participating.
 
