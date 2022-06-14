@@ -12,8 +12,6 @@ title: 🌱 Seeds
   <meta property="og:image" content="img/green.jpeg" />
 </head>
 
-# 🌱 Seeds
-
 Seeds is a collection of 10,000 NFTs created by Serving the People’s founder artist [Lucien Smith](https://www.luciensmithstudio.com). The primary purpose of Seeds is to support the Serving the People organization. Think of Seeds as a lifetime membership to our community, by being a Seeds holder you are participating in the formation of a creator community. 
 
 ## Seeds FAQ
