@@ -4,9 +4,7 @@ title: 🌎 Introduction
 id: intro
 slug: /
 ---
-# Serving the People
-
-# What is STP?
+# What is Serving the People?
 
 Serving the People (STP) is an ecosystem building the future of creativity, collaboration, and communication. Guided by a network of creatives and technologists, STP aims to rebuild the infrastructure for cultural participation. By providing mentorship and support through our Foundation, STP aims to go beyond and bridge the digital with the real world.
 
