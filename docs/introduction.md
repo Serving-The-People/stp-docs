@@ -37,22 +37,6 @@ We’re a multidisciplinary team bridging the gap between culture, scalable tech
 - **Ben Werther** - Community Moderator - Artist
 - **Dana Greenleaf** - Community Moderator - Filmmaker
 
-### Board of Advisors
-
-- **David Jacobs** - *Entertainment Attorney*, Grubman Shire Meiselas & Sacks
-- **Tremaine Emory** - *Creative Director*, Supreme
-- **Arun Dua** - *Principle*, Glenridge Cpa
-- **Damany Weir** - *Founder*, Flight Club
-- **Leandra Cohen** - *Founder*, Manrepeller
-- **Brock Marciano** - *Grammy Award Winning Music Producer*
-- **Adam Squires** - *Partner*, Chips
-- **Adam Cohen** - *Former Global Marketing Director*, Wework
-- **Julia Fox** - *A-List Entertainer, Influencer*
-- **Seth Cameron** - *Artist, Writer, Executive Director,* Children's Museum Of The Arts
-- **Mo Koyfman** - *Founder & General Partner*, Shine Capital
-- **Michaela De Pury** - *Senior Partner*, Phillips De Pury & Company
-- **Jeff Gluck** - Founder, Holograph.Xyz
-
 ## Partners
 
 ### Urbit
