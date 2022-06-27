@@ -32,7 +32,7 @@ We are currently building **Platform,** a decentralized web app that seeks to cr
 # Roadmap
 
 - [x]  **Alpha (Completed) Nov. 2021**
-Initial Seed NFT crowdfund successfully raised desired amount led by leading musicians, creatives, and entrepreneurs.
+</br>Initial Seed NFT crowdfund successfully raised desired amount led by leading musicians, creatives, and entrepreneurs.
 - [ ]  **Beta 1 (Currently) - Onboarding, Build UI/UX, Recurring Programming** 
 Onboarding “high value” beta users and contributors, finalizing design and workflows of Platform.
 - [ ]  **Beta - NFT Gating, Recurring Revenue, Urbit App,** 
