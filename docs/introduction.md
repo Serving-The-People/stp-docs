@@ -34,12 +34,12 @@ We are currently building **Platform,** a decentralized web app that seeks to cr
 - [x]  **Alpha (Completed) Nov. 2021**
 </br>Initial Seed NFT crowdfund successfully raised desired amount led by leading musicians, creatives, and entrepreneurs.
 - [ ]  **Beta 1 (Currently) - Onboarding, Build UI/UX, Recurring Programming** 
-Onboarding “high value” beta users and contributors, finalizing design and workflows of Platform.
+</br>Onboarding “high value” beta users and contributors, finalizing design and workflows of Platform.
 - [ ]  **Beta - NFT Gating, Recurring Revenue, Urbit App,** 
-Community Scaling. Further allocation of Seeds NFTs, STP Urbit social app goes live.
+</br>Community Scaling. Further allocation of Seeds NFTs, STP Urbit social app goes live.
 - [ ]  **Phase 1 - Platform Web App Live**
-Account creation available to all Seed holders
+</br>Account creation available to all Seed holders
 - [ ]  **Phase 2 -Social Token**
-All Seeds NFTs allocated.
+</br>All Seeds NFTs allocated.
 - [ ]  **Phase 3 - Marketplace, Public Launch**
-Allow Account creation to general public. Native marketplace goes live.
+</br>Allow Account creation to general public. Native marketplace goes live.
