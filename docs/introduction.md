@@ -1,6 +1,6 @@
 ---
 sidebar_position: 1
-title: Introduction
+title: 🌎 Introduction
 id: intro
 slug: /
 ---
@@ -10,7 +10,7 @@ slug: /
 
 Serving the People (STP) is an organization building the future of creativity, collaboration, and communication. Guided by a network of creatives and technologists, STP aims to rebuild the infrastructure for cultural participation. By providing mentorship and support through our Foundation, STP aims to go beyond and bridge the digital with the real world.
 
-# 🌱Seeds🌱
+# 🌱Seeds
 
 [Seeds](docs/seeds.md) is a collection of 10,000 NFTs created by Serving the People’s founder artist [Lucien Smith](https://www.luciensmithstudio.com/). The primary purpose of Seeds is to support STP. Think of Seeds as STP’s membership and ID, each NFT is unique and unlocks access to the community. For more information visit the [Seeds Page](docs/seeds.md).
 
