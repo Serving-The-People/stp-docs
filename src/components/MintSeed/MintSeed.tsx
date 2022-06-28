@@ -17,7 +17,7 @@ if (typeof window !== "undefined" && !window.process) {
 }
 
 const client = createClient({
-  // autoConnect: true,
+  autoConnect: true,
   provider(config) {
     return new providers.AlchemyProvider(
       typeof config !== "undefined" && config.chainId,
