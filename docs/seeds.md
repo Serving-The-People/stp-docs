@@ -37,4 +37,4 @@ Nope. If you visit [seeds.lobus.io](https://seeds.lobus.io/buy) you may purchase
 ## How to Mint a Seed
 To mint your own seed visit [Mint a Seed](mint-a-seed).
 
-If you’d like to view or purchase a Seed on the secondary market check them out on [OpenSea](https://opensea.io/collection/seeds-luciensmith).
+If you’d like to view or purchase a Seed on the secondary market check them out on [OpenSea](https://opensea.io/collection/seeds-luciensmith) and [Foundation](https://foundation.app/collection/seeds-luciensmith).
