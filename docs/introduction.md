@@ -6,21 +6,36 @@ slug: /
 ---
 # What is Serving the People?
 
-Serving the People (STP) is an ecosystem building the future of creativity, collaboration, and communication. Guided by a network of creatives and technologists, STP aims to rebuild the infrastructure for cultural participation. By providing mentorship and support through our Foundation, STP seeks to bridge the digital with physical experiences.
+Serving the People (STP) is a network of creatives redefining cultural infrastructure by utilizing the internet and hosting meaningful IRL interactions. Since its formation in 2017, STP has launched digital activations and a platform that provides creators with audience and abundant opportunities for collaboration and support.
 
-# Seeds
+# Immediate Goal: Accelerate our Growth
 
-[Seeds](docs/seeds.md) is a collection of 10,000 NFTs created by Serving the People’s founder artist [Lucien Smith](https://www.luciensmithstudio.com/). The primary purpose of Seeds is to support STP. Think of Seeds as STP’s membership and ID, each NFT is unique and unlocks access to the community. For more information visit the [Seeds Page](docs/seeds.md).
+STP aims to establish a global organization of forward-thinking leaders and innovators. Currently our network interacts in real-time through the STP Discord and derives value from thoughtful interactions such as  Crit Club a bi-weekly online discussion led by our artist community. Our goal is to scale these efforts and expand our community.
+
+# How it Works
+Serving the People is made up of three components:
+
+**STP Creative, LLC**
+Houses all STP’s commercial initiatives including: brands, software, and more. 
+
+**The STP Foundation**
+A 501(c)(3) non-profit that receives funds from STP Creative to support the arts and culture.
+
+**Seeds DAO**
+Determines where STP Foundation focuses its philanthropic efforts.
+
+**STP Creative, LLC.**
+STP Creative is a team made up of multidisciplinary artists and experienced technologists who collaborate on projects across software, brands, programming, and more.
+
+**Seeds DAO**
+[Seeds](docs/seeds.md) is a collection of 10,000 NFTs created by Serving the People’s founder and artist Lucien Smith. Each Seed provides an irrevocable membership to Seeds DAO. Seeds DAO is the governing body of The STP Foundation. Seed holders / DAO members vote on grant proposals submitted by artists and creators. Members of Seeds DAO are responsible for approving the allocation of resources related to proposals. The STP Foundation will defer to the consensus vote of Seeds DAO members on all future proposals. Each Seed represents one vote in the DAO.
+
+**The STP Foundation**
+The STP Foundation is a 501(c)(3) non-profit. The foundation receives a fixed percentage from all STP Creative revenue, including platform fees, sales, ticketing, NFTs, and more. The Foundation focuses on funding and producing artist run projects and initiatives that are proposed through Seeds DAO. Past projects launched by The STP Foundation include BFA Student Show, Film Screening, Crit Club, and more.
 
 # Discord
 
 The [STP Discord](https://discord.gg/A4bJ8cCwUP) is where our community comes together, with discussion channels for art, design, illustration, jobs, advise and much more. We even have our own 24/7 radio player curated by us, and reoccurring programing such as CRIT CLUB a live interactive gathering of bright creative individuals from all over the world. All you need to join is a [Seed NFT](docs/seeds.md).
-
-# Our Vision
-
-We believe creativity is at the center of everything we do and love. We know creators hold the key to a more promising future; It is our goal at STP to provide them with resources, support, and community. 
-
-We are currently building **Platform,** a decentralized web app that seeks to create a rewarding online experience with well thought out tooling and support. **Platform** will provide generations of creators with the infrastructure needed to build a better world. 
 
 ### Our Team
 
@@ -33,17 +48,64 @@ We are currently building **Platform,** a decentralized web app that seeks to cr
 - **Ben Werther** - Community Moderator - Artist
 - **Dana Greenleaf** - Community Moderator - Filmmaker
 
-# Roadmap
+# **Roadmap**
 
-- [x]  **Alpha (Completed) Nov. 2021**
-<br/>Initial Seed NFT crowdfund successfully raised desired amount led by leading musicians, creatives, and entrepreneurs.
-- [ ]  **Beta 1 (Currently) - Onboarding, Build UI/UX, Recurring Programming** 
-<br/>Onboarding “high value” beta users and contributors, finalizing design and workflows of Platform.
-- [ ]  **Beta - NFT Gating, Recurring Revenue, Urbit App,** 
-<br/>Community Scaling. Further allocation of Seeds NFTs, STP Urbit social app goes live.
-- [ ]  **Phase 1 - Platform Web App Live**
-<br/>Account creation available to all Seed holders
-- [ ]  **Phase 2 -Social Token**
-<br/>All Seeds NFTs allocated.
-- [ ]  **Phase 3 - Marketplace, Public Launch**
-<br/>Allow Account creation to general public. Native marketplace goes live.
+Here is what’s on the horizon:
+
+### **Phase 1:**
+
+**⏩ Accelerate Community growth.**
+• Increase follower growth through impactful content
+• 15% MoM community growth
+ 
+**🚀 Launch STP Brands**
+• (STP) Brand launches in select retailers
+• Woolrich by Serving the People launches in stores
+• Secure $20,000/month in sales
+
+**📅 Activate Programming**
+• Establish consistent stream of events/programming 
+• Increase unique page visits
+• Attendance rate
+
+### **Phase 2:**
+
+**🖥 Launch Platform**
+• SaaS tooling
+• Reoccurring revenue through platform fees
+• $95,000/month goal within 1 year of launch 
+
+**📱 Launch Urbit iOS app**
+• Increase accessibility to STP through iOS App
+• Leverage Urbit’s architecture to power our community 
+
+**🌱 Launch Seeds DAO**
+• Begin decentralization
+• Establish DAO member utility and contribution to STP initiatives
+• Announce STP’s Treasury 
+• $5M projected value in NFT sales
+
+### **Phase 3**
+
+**🎬 STP Creative Arts & Entertainment**
+• 24/7 content streaming
+• Audience growth
+• Continual podcasts
+• Film production
+• Quarterly contemporary culture magazine
+
+**🧱 Brick & Mortar**
+• Leverage locations to facilitate foot traffic
+• 3K + Buying monthly patrons
+
+**👥 STP Groups**
+• Expand STP’s efforts by electing local chairs
+• Multiple time zones
+• Self supporting
+• Increase individuals served
+• Strong community engagement and support
+
+**🌎 STP Cultural Center**
+• Institutionalization 
+• Patron membership
+• 5K + Patrons 
