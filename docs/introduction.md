@@ -15,10 +15,10 @@ STP aims to establish a global organization of forward-thinking leaders and inno
 # How it Works
 Serving the People is made up of three components:
 
-**STP Creative, LLC**
+# STP Creative, LLC
 Houses all STP’s commercial initiatives including: brands, software, and more. 
 
-**The STP Foundation**
+# The STP Foundation 
 A 501(c)(3) non-profit that receives funds from STP Creative to support the arts and culture.
 
 **Seeds DAO**
