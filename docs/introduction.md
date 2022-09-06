@@ -24,7 +24,7 @@ A 501(c)(3) non-profit that receives funds from STP Creative to support the arts
 **Seeds DAO**
 Determines where STP Foundation focuses its philanthropic efforts.
 
-# STP Creative, LLC.**
+# STP Creative, LLC.
 STP Creative is a team made up of multidisciplinary artists and experienced technologists who collaborate on projects across software, brands, programming, and more.
 
 # Seeds DAO
