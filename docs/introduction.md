@@ -17,10 +17,8 @@ Serving the People is made up of three components:
 
 **STP Creative, LLC**
 Houses all STP’s commercial initiatives including: brands, software, and more. 
-
 **The STP Foundation**
 A 501(c)(3) non-profit that receives funds from STP Creative to support the arts and culture.
-
 **Seeds DAO**
 Determines where STP Foundation focuses its philanthropic efforts.
 
