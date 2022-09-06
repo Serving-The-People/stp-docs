@@ -15,22 +15,22 @@ STP aims to establish a global organization of forward-thinking leaders and inno
 # How it Works
 Serving the People is made up of three components:
 
-# STP Creative, LLC
+**STP Creative, LLC**
 Houses all STP’s commercial initiatives including: brands, software, and more. 
 
-# The STP Foundation 
+**The STP Foundation**
 A 501(c)(3) non-profit that receives funds from STP Creative to support the arts and culture.
 
-**Seeds DAO**
+# Seeds DAO
 Determines where STP Foundation focuses its philanthropic efforts.
 
-**STP Creative, LLC.**
+# STP Creative, LLC.**
 STP Creative is a team made up of multidisciplinary artists and experienced technologists who collaborate on projects across software, brands, programming, and more.
 
-**Seeds DAO**
+# Seeds DAO
 [Seeds](docs/seeds.md) is a collection of 10,000 NFTs created by Serving the People’s founder and artist Lucien Smith. Each Seed provides an irrevocable membership to Seeds DAO. Seeds DAO is the governing body of The STP Foundation. Seed holders / DAO members vote on grant proposals submitted by artists and creators. Members of Seeds DAO are responsible for approving the allocation of resources related to proposals. The STP Foundation will defer to the consensus vote of Seeds DAO members on all future proposals. Each Seed represents one vote in the DAO.
 
-**The STP Foundation**
+# The STP Foundation
 The STP Foundation is a 501(c)(3) non-profit. The foundation receives a fixed percentage from all STP Creative revenue, including platform fees, sales, ticketing, NFTs, and more. The Foundation focuses on funding and producing artist run projects and initiatives that are proposed through Seeds DAO. Past projects launched by The STP Foundation include BFA Student Show, Film Screening, Crit Club, and more.
 
 # Discord
